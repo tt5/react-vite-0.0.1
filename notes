@@ -1,0 +1,6 @@
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init
+
+Add Tailwind to your postCSS configuration.
+Configure your template paths by modifying the tailwind.config.js file.
+Add the Tailwind directives to your CSS.
